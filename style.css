@@ -1,0 +1,76 @@
+body
+{
+
+    text-align: center;
+}
+
+#intro
+{
+    background-color: white
+}
+
+
+#pandq
+{
+    background-color: antiquewhite
+}
+
+#q1
+{
+    background-color: white
+}
+
+#q2
+{
+    background-color: white
+}
+
+#q3
+{
+    background-color: white
+}
+
+#q4
+{
+    background-color: white
+}
+
+#imgone
+{
+    width: 400px
+}
+
+#imgtwo
+{
+    width: 400px
+}
+
+#imgthree
+{
+    width: 400px
+}
+
+#imgfour
+{
+    width: 400px
+}
+
+.line
+{
+    background-color: black;
+    width: inherit;
+    height: 10px;
+    margin: 8px auto;
+}
+
+h2
+{
+    font-family: cursive
+}
+
+#videossub
+{
+    font-family: fantasy
+}
+
+
